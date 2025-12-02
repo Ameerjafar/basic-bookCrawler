@@ -1,0 +1,1016 @@
+[
+  {
+    "src_url": "https://en.wikipedia.org/wiki/Donald_Trump",
+    "position": 1,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "figcaption",
+      "cite",
+      "script",
+      "div",
+      "a",
+      "i",
+      "q",
+      "h3",
+      "li",
+      "title",
+      "span",
+      "b"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.whitehouse.gov/administration/donald-j-trump/",
+    "position": 2,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "h1",
+      "a",
+      "title",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.cnn.com/politics/president-donald-trump-47",
+    "position": 3,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "figcaption",
+      "h2",
+      "script",
+      "style",
+      "a",
+      "div",
+      "title",
+      "h1",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.facebook.com/DonaldTrump/",
+    "position": 4,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://trumpwhitehouse.archives.gov/people/donald-j-trump/",
+    "position": 5,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "a",
+      "title",
+      "h1",
+      "strong"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.donaldjtrump.com/",
+    "position": 6,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.cnbc.com/donald-trump/",
+    "position": 7,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "a",
+      "title",
+      "h1",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.whitehousehistory.org/bios/donald-j-trump",
+    "position": 8,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "a",
+      "title",
+      "li",
+      "h1"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.trump.com/",
+    "position": 9,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.instagram.com/realdonaldtrump/?hl=en",
+    "position": 10,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "http://www.trumplibrary.gov/trumps/president-donald-j-trump",
+    "position": 11,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "a",
+      "li",
+      "title",
+      "strong",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://calmatters.org/tag/donald-trump/",
+    "position": 12,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "div",
+      "a",
+      "title",
+      "h1"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.reuters.com/world/us/donald-trump/",
+    "position": 13,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.whitehouse.gov/",
+    "position": 14,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "span",
+      "a",
+      "script"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.theguardian.com/us-news/donaldtrump",
+    "position": 15,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "h2",
+      "script",
+      "div",
+      "a",
+      "title",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.newyorker.com/tag/donald-trump",
+    "position": 16,
+    "keyword": "donald trump",
+    "all_tags": [
+      "script",
+      "div",
+      "title",
+      "h3",
+      "h1",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://x.com/POTUS",
+    "position": 17,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://millercenter.org/president/trump",
+    "position": 18,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "h2",
+      "h6",
+      "script",
+      "a",
+      "div",
+      "title",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.foreignaffairs.com/topics/trump-administration",
+    "position": 19,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "h1",
+      "a",
+      "title"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://apnews.com/hub/donald-trump",
+    "position": 20,
+    "keyword": "donald trump",
+    "all_tags": [
+      "h2",
+      "script",
+      "a",
+      "title",
+      "h1",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.washingtonpost.com/donald-trump/",
+    "position": 21,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025",
+    "position": 22,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "h6",
+      "h1"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.usatoday.com/news/politics/donald-trump/",
+    "position": 23,
+    "keyword": "donald trump",
+    "all_tags": [
+      "h1",
+      "a",
+      "script",
+      "title"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.youtube.com/channel/UCAql2DyGU2un1Ei2nMYsqOA",
+    "position": 24,
+    "keyword": "donald trump",
+    "all_tags": [
+      "script",
+      "title"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.instagram.com/potus/?hl=en",
+    "position": 25,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://abcnews.go.com/alerts/donald-trump",
+    "position": 26,
+    "keyword": "donald trump",
+    "all_tags": [
+      "title",
+      "div",
+      "a",
+      "script"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.nytimes.com/spotlight/donald-trump",
+    "position": 27,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "a",
+      "title",
+      "h3",
+      "h1",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://ballotpedia.org/Donald_Trump",
+    "position": 28,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.wsj.com/topics/person/donald-trump?gaa_at=eafs&gaa_n=AWEtsqfkrRnRfq-IWrnifRP9cqoH8VlD4yxAMEdZ78kea3mqLM-FRdihzfIW&gaa_ts=692ebc52&gaa_sig=hT2B_vxI1QkUfZ8SnJ55MVvv-MY-iYGN-Q-QTx8vMI5kcQGGDBlBVbttbY9jvEGCJHFay4C_sBXVPQbKKNEw7A%3D%3D",
+    "position": 34,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "http://www.trumplibrary.gov/home",
+    "position": 36,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "div",
+      "a",
+      "title"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://theconversation.com/topics/donald-trump-10206",
+    "position": 37,
+    "keyword": "donald trump",
+    "all_tags": [
+      "h1",
+      "span",
+      "a",
+      "title"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://trumpwhitehouse.archives.gov/",
+    "position": 38,
+    "keyword": "donald trump",
+    "all_tags": [
+      "strong",
+      "a",
+      "script"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.nbcnews.com/trump-effect",
+    "position": 39,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "h2",
+      "script",
+      "div",
+      "a",
+      "title",
+      "h1",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.whitehouse.gov/contact/",
+    "position": 40,
+    "keyword": "donald trump",
+    "all_tags": [
+      "span",
+      "a",
+      "cite",
+      "script"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.history.com/articles/donald-trump",
+    "position": 41,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "h2",
+      "script",
+      "a",
+      "title",
+      "h3",
+      "h1",
+      "dd"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.reddit.com/r/videos/comments/1pa4yu7/trump_fans_should_admit_hed_never_give_a_speech/",
+    "position": 42,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.vox.com/donald-trump",
+    "position": 43,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "a",
+      "title",
+      "h1"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.youtube.com/watch?v=zhb-CDXNrX4",
+    "position": 44,
+    "keyword": "donald trump",
+    "all_tags": [
+      "script",
+      "title"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.forbes.com/profile/donald-trump/",
+    "position": 45,
+    "keyword": "donald trump",
+    "all_tags": [
+      "cite",
+      "script",
+      "div",
+      "a",
+      "title",
+      "h3",
+      "li",
+      "h1",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.theatlantic.com/politics/2025/12/trump-white-house-travel-rallies-isolated/685073/",
+    "position": 46,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "a",
+      "script"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://x.com/realDonaldTrump",
+    "position": 47,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.instagram.com/reel/DRuGYU0jc8l/",
+    "position": 48,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://thehill.com/people/donald-trump/",
+    "position": 49,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.instagram.com/reel/DRu0VChjTfF/",
+    "position": 50,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://bidenwhitehouse.archives.gov/about-the-white-house/presidents/donald-j-trump/",
+    "position": 51,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "em",
+      "script",
+      "a",
+      "title",
+      "option",
+      "h1",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.tiktok.com/@livenowfox/video/7578668586659532062",
+    "position": 52,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.facebook.com/POTUS/",
+    "position": 54,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.politico.com/news/donald-trump",
+    "position": 55,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.trump.com/leadership/donald-j-trump-biography",
+    "position": 56,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.imdb.com/name/nm0874339/",
+    "position": 57,
+    "keyword": "donald trump",
+    "all_tags": [
+      "script",
+      "div",
+      "a",
+      "title",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.pewresearch.org/politics/2021/01/29/how-america-changed-during-donald-trumps-presidency/",
+    "position": 58,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "figcaption",
+      "h2",
+      "script",
+      "a",
+      "title",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.france24.com/en/tag/donald-trump/",
+    "position": 59,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.bbc.com/news/articles/cn5lx240greo",
+    "position": 61,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "h2",
+      "script",
+      "h1",
+      "a",
+      "title"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.foxbusiness.com/category/donald-trump",
+    "position": 62,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "a",
+      "title",
+      "h1"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-on-air-force-one-nov-30-2025/",
+    "position": 63,
+    "keyword": "donald trump",
+    "all_tags": [
+      "script",
+      "h1",
+      "a",
+      "title",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.wired.com/tag/donald-trump/",
+    "position": 64,
+    "keyword": "donald trump",
+    "all_tags": [
+      "script",
+      "h3",
+      "h1",
+      "title"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.thedailybeast.com/why-donald-trumps-presidency-is-all-but-over-james-carville/",
+    "position": 65,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "h2",
+      "script",
+      "title",
+      "h1",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.post-gazette.com/opinion/op-ed/2025/12/02/maga-no-kings-trump-marjorie-greene-mtg-minority-rights-frank-miele/stories/202512010063",
+    "position": 67,
+    "keyword": "donald trump",
+    "all_tags": [
+      "script",
+      "title"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.whitehouse.gov/administration/",
+    "position": 68,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "a",
+      "title",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://news.gallup.com/poll/699221/trump-approval-rating-drops-new-second-term-low.aspx",
+    "position": 69,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "h2",
+      "em",
+      "script",
+      "h1",
+      "option",
+      "title",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.newsweek.com/donald-trump-warning-us-attacks-venezuela-chuck-schumer-11137961",
+    "position": 70,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "a",
+      "title",
+      "h1",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.usatoday.com/videos/news/2025/12/01/white-house-releases-details-of-president-trumps-mri-scan/87556414007/",
+    "position": 71,
+    "keyword": "donald trump",
+    "all_tags": [
+      "script",
+      "h1",
+      "div",
+      "a",
+      "title"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.cnn.com/2025/12/01/politics/video/senator-mark-kelly-hegseth-trump-threatening-digvid-vrtc",
+    "position": 72,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "div",
+      "title",
+      "h1"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.economist.com/interactive/trump-approval-tracker",
+    "position": 73,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://singjupost.com/transcript-donald-trump-jr-on-keeping-it-real-podcast-w-jillian-michaels/",
+    "position": 74,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "em",
+      "h2",
+      "script",
+      "a",
+      "title",
+      "h1",
+      "strong",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.britannica.com/biography/Donald-Trump",
+    "position": 75,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "dd",
+      "em",
+      "h2",
+      "script",
+      "a",
+      "div",
+      "title",
+      "h1",
+      "strong",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/donald-trump-lashes-out-at-reporter-asking-about-dc-shooter",
+    "position": 76,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "title",
+      "h1",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.instagram.com/reel/DRfnfkagXo1/",
+    "position": 77,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://en.wikipedia.org/wiki/Donald_Trump_Jr.",
+    "position": 78,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "figcaption",
+      "cite",
+      "script",
+      "div",
+      "a",
+      "i",
+      "q",
+      "h3",
+      "li",
+      "title",
+      "h4",
+      "span",
+      "b"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://time.com/7337936/trump-mri-results-health-white-house/",
+    "position": 79,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "h1",
+      "a",
+      "title",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-indiana-redistricting-ukraine-live-updates-rcna246480",
+    "position": 80,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "h2",
+      "script",
+      "a",
+      "li",
+      "strong"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.dw.com/en/us-military-threat-fuels-fear-and-uncertainty-in-venezuela/video-74953572",
+    "position": 83,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "a",
+      "script"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://news.sky.com/story/white-house-issues-update-on-donald-trumps-health-as-president-undergoes-mri-scan-13478072",
+    "position": 84,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "a",
+      "h3",
+      "title",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.timesofisrael.com/trump-speaks-to-netanyahu-warns-israel-not-to-interfere-in-syria/",
+    "position": 85,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "h1",
+      "div",
+      "a",
+      "title",
+      "figcaption"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.nytimes.com/video/us/politics/100000010556754/trump-mri-test-results.html",
+    "position": 86,
+    "keyword": "donald trump",
+    "all_tags": [
+      "h2",
+      "script",
+      "h3",
+      "title",
+      "h4",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.pbs.org/newshour/politics/trump-invites-families-of-2-national-guard-members-who-were-shot-to-white-house",
+    "position": 87,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "h1",
+      "a",
+      "div",
+      "title",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.cnn.com/2025/12/01/world/video/steve-witkoff-ukraine-russia-negotiations-brief-digvid",
+    "position": 88,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "a",
+      "div",
+      "script"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.usatoday.com/videos/news/politics/2025/12/01/court-disqualifies-trump-ally-habba-as-new-jersey-federal-prosecutor/87553419007/",
+    "position": 92,
+    "keyword": "donald trump",
+    "all_tags": [
+      "title",
+      "div",
+      "a",
+      "script"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.foxnews.com/video/6385820974112",
+    "position": 93,
+    "keyword": "donald trump",
+    "all_tags": [
+      "script",
+      "h1",
+      "a",
+      "title",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.pbs.org/newshour/show/december-1-2025-pbs-news-hour-full-episode",
+    "position": 94,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "div",
+      "script"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.tiktok.com/@teamtrump/video/7578937271626239245",
+    "position": 95,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.youtube.com/watch?v=Op-z2r3_Lm4",
+    "position": 96,
+    "keyword": "donald trump",
+    "all_tags": [
+      "title",
+      "script"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://x.com/DonaldTrump?lang=en",
+    "position": 97,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://timesofindia.indiatimes.com/videos/international/trump-gives-2-choices-to-maduro-family-secret-call-details-out-amid-venezuela-tensions/videoshow/125693857.cms",
+    "position": 98,
+    "keyword": "donald trump",
+    "all_tags": [
+      "p",
+      "script",
+      "a",
+      "div",
+      "h3",
+      "title",
+      "span"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://news.sky.com/video/donald-trump-condemns-animal-suspect-in-shooting-of-national-guard-13475960",
+    "position": 99,
+    "keyword": "donald trump",
+    "all_tags": [
+      "script",
+      "span",
+      "a",
+      "title"
+    ],
+    "status_code": 200
+  },
+  {
+    "src_url": "https://www.facebook.com/senatorelizabethwarren/videos/next-year-donald-trumps-big-beautiful-bill-will-hand-67-billion-of-your-taxpayer/1653842435753888/",
+    "position": 100,
+    "keyword": "donald trump",
+    "all_tags": [],
+    "status_code": 200
+  }
+][
+
+]

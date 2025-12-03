@@ -1,1016 +1,328 @@
 [
   {
-    "src_url": "https://en.wikipedia.org/wiki/Donald_Trump",
+    "src_url": "https://www.grandviewresearch.com/industry-analysis/solar-panels-market",
     "position": 1,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "figcaption",
-      "cite",
-      "script",
-      "div",
-      "a",
-      "i",
-      "q",
-      "h3",
-      "li",
-      "title",
-      "span",
-      "b"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div#bs-example-navbar-collapse-1.collapse.navbar-collapse.js-navbar-collapse > ul.nav.navbar-nav > li.dropdown > ul.drop",
+      "div.inner_page_backgrund.full > div.col-md-9.col-xs-12 > div > section#breadcrumb.full.breadcrumb_new.breadcrumbs > ul >",
+      "li.lst-child > div > div.full > div.report_summary.full > div#rprt_summary > div.report_external_com_sec > p > strong",
+      "section#breadcrumb.full.breadcrumb_new.breadcrumbs > ul > li.lst-child > div > div.advanced_report_inner > div.report_to",
+      "section#breadcrumb.full.breadcrumb_new.breadcrumbs > ul > li.lst-child > div > div.full > div.report_summary.full > div#",
+      "ul > li.lst-child > div > div.full > div.report_summary.full > div#rprt_summary > div.report_external_com_sec > h3",
+      "ul > li.lst-child > div > div.full > div.report_summary.full > div#rprt_summary > h2 > strong"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.whitehouse.gov/administration/donald-j-trump/",
+    "src_url": "https://seia.org/research-resources/us-solar-market-insight/",
     "position": 2,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "h1",
-      "a",
-      "title",
-      "span"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div#pills-tabContent.tab-content.pt-50 > div#pills-overview.tab-pane.fade.show.active > div.state-tab-content.font-18 > ",
+      "div.container > div.sub-menu-wrap.d-lg-flex.justify-content-between.flex-column.text-white > div.sub-menu-top > div.row ",
+      "div.wrapper-outer.top-spacing > section#cta-featured-section.feature-section.font-18.bg-white > div.container > div.row ",
+      "div.wrapper-outer.top-spacing > section#cta-resource-archives-links.feature-section.section-bg > div.container > div.arc",
+      "div.wrapper-outer.top-spacing > section.banner-section.banner-style3.position-relative > div.landing-banner-main.banner-"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.cnn.com/politics/president-donald-trump-47",
+    "src_url": "https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764",
     "position": 3,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "figcaption",
-      "h2",
-      "script",
-      "style",
-      "a",
-      "div",
-      "title",
-      "h1",
-      "span"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "body > div.bg-patten.inner-page-section > div.container > div.row.reportData > div.col-lg-9.col-md-8.col-xs-12 > div.col",
+      "div.bg-patten.inner-page-section > div#imageModal.modal.fade.show > div.modal-dialog.modal-lg > div.modal-content.modal-",
+      "div.col-lg-12.healthcare.no-border.ltr-class > div.tab-box > div.tab-content > div#summary.tab-pane.summarylist.active >",
+      "div.col-lg-9.col-md-8.col-xs-12 > div.col-lg-12.healthcare.no-border.ltr-class > div.tab-box > div.tab-content > div#sum",
+      "div.tab-box > div.tab-content > div#summary.tab-pane.summarylist.active > div > div#summury-sub.summary-sub-select > p >",
+      "html > body > section.page-heading.experties-heading > div.container > ul.float-left > li.lst-child > div > span.sub-pag"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.facebook.com/DonaldTrump/",
+    "src_url": "https://www.marketresearchfuture.com/reports/solar-panels-market-3237",
     "position": 4,
-    "keyword": "donald trump",
-    "all_tags": [],
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "article.mrfr-index-tab-section > div.section-content > div.sec-cont-scope-table > figure.table > table > tbody > tr > td",
+      "div#mrfr-rightmenuDrawer.mrfr-rightmenuDrawer > ul > li.mrfr-rightmenuHasDropdown > ul.mrfr-rightmenuDropdown > li.mrfr-",
+      "div.tab-content-wrapper > div.tab-content > div.cat-mega-menu-wrapper > div.cat-mega-menu-col > div.cat-col-1 > ul.cat-s",
+      "div.wrapper > main.inner-wrapper > section.rd-hero-section-wrapper > div.rd-hero-inner-section > div.rd-hero-cont > sect",
+      "header.top-nav > div.sec-nav-wrapper > nav.sec-nav-container > div.sec-contact-links > div.sec-menu-items > ul.menu-cont",
+      "html > body > div.navbar-scroll-rd.navbar-bg-image > nav.nav-container > div.menu-links > div.report-title-actions-cont ",
+      "html > body > footer.footer-wrapper > div.footer-cont > div.footer-inner-cont > div.footer-col > div.comp-desc > p.desc-",
+      "main > div.wrapper > main.inner-wrapper > section.breadcrumbs-wrapper > div.breadcrumbs-cont > div.breadcrumbs-inner-con",
+      "section.mrfr-rd-container > section.mrfr-rd-inner-cont > section.mrfr-tab-container > section.mrfr-tab-content.mrfr-acti",
+      "section.mrfr-rd-inner-cont > section.mrfr-tab-container > section.mrfr-tab-content.mrfr-active > div.mrfr-index-tab-wrap",
+      "section.mrfr-tab-container > section.mrfr-tab-content.mrfr-active > div.mrfr-index-tab-wrapper > section.mrfr-index-tab-"
+    ],
     "status_code": 200
   },
   {
-    "src_url": "https://trumpwhitehouse.archives.gov/people/donald-j-trump/",
+    "src_url": "https://www.nrel.gov/solar/market-research-analysis/solar-installed-system-cost",
     "position": 5,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "a",
-      "title",
-      "h1",
-      "strong"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "body.gov > main#content.page-wrapper > div#Contentplaceholder1_T980B6F8C002_Col00.sf_colsIn.container > div.row.swap-col",
+      "div#Contentplaceholder1_T980B6F8C002_Col00.sf_colsIn.container > div.row.swap-cols-on-mobile > div#Contentplaceholder1_T",
+      "div.left-nav-desktop-wrapper > nav.left-nav-menu > ul > li.node > ul.children > li.child-node > div.child > a",
+      "div.row > div.menu-col > nav.main-menu > ul > li.node.active-node > ul.children > li.child-node > a",
+      "html > body.gov > header.gov-site-header.header2 > div#Header_T980B6F8C004_Col03.navbar-row.sf_colsIn > div.container > ",
+      "html > body.gov > main#content.page-wrapper > div#Contentplaceholder1_T980B6F8C002_Col00.sf_colsIn.container > div > div"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.donaldjtrump.com/",
+    "src_url": "https://www.solarpowereurope.org/insights/outlooks/global-market-outlook-for-solar-power-2025-2029/detail",
     "position": 6,
-    "keyword": "donald trump",
-    "all_tags": [],
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div#__layout > div > main.outlook-detail > section.hero-img > div.hero-img__innerwrap > div.hero-img__row > div.hero-img"
+    ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.cnbc.com/donald-trump/",
+    "src_url": "https://www.energy.gov/eere/solar/quarterly-solar-industry-update",
     "position": 7,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "a",
-      "title",
-      "h1",
-      "span"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div.blade-color.blade-section--white > div.grid-row > div.grid-col > div.block.block-layout-builder.block-inline-blockba",
+      "div.grid-container > div.blade-color.blade-section--white > div.grid-row > div.grid-col > div.block.block-layout-builder",
+      "div.grid-row.grid-gap > div.usa-layout-docs__main.desktop:grid-col-fill > div#block-main-breadcrumbs.block.block-system.",
+      "div.grid-row.grid-gap > div.usa-layout-docs__main.desktop:grid-col-fill > div#block-pagetitle.block.block-core.block-pag",
+      "section.blade-section--boxed.layout.layout--onecol > div.layout__region.layout__region--content.grid-container > div.blo",
+      "section.layout.blade-section--boxed > div.grid-container > div.blade-color.blade-section--white > div.grid-row > div.gri",
+      "ul#main-megamenu.usa-nav__primary.usa-accordion > li.usa-nav__primary-item > ul#extended-mega-nav-section-1-1-1.usa-nav_"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.whitehousehistory.org/bios/donald-j-trump",
+    "src_url": "https://www.alliedmarketresearch.com/solar-panel-market",
     "position": 8,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "a",
-      "title",
-      "li",
-      "h1"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div#mainRDContent.avn-right-side > div > div.row > div.col-12 > div#report-overview.avn-editor-layout > p > em > strong",
+      "div.col-12.col-sm-12.col-md-9.col-lg-9 > div#mainRDContent.avn-right-side > div > div.row > div.col-12 > div#report-over",
+      "div.container-fluid.px-xl-6 > div.row > div.col-12 > div.row > div.col-12.col-sm-12.col-md-9.col-lg-9 > div.card.text-st",
+      "div.row > div.col-12 > div.border-bottom.mb-3.mt-2 > nav > ol.breadcrumb.bg-transparent.p-0.mb-2 > li.breadcrumb-item.fs",
+      "div.row > div.col-12 > div.row > div.col-12.col-sm-12.col-md-3.col-lg-3 > div.card.avp-overflow-card.border-0.mt-2 > div",
+      "div.row > div.col-12.col-sm-12.col-md-9.col-lg-9 > div#mainRDContent.avn-right-side > div > div.row > div.col-12 > div#r",
+      "html > body > div#fixhead.fixedheader > div.container-fluid.px-xl-6 > div.row.d-flex.justify-content-around.align-items-"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.trump.com/",
+    "src_url": "https://www.iea.org/reports/solar-pv-global-supply-chains/executive-summary",
     "position": 9,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
+    "keyword": "market analysis solar panel",
+    "css_paths": [],
+    "status_code": 0
   },
   {
-    "src_url": "https://www.instagram.com/realdonaldtrump/?hl=en",
-    "position": 10,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "http://www.trumplibrary.gov/trumps/president-donald-j-trump",
-    "position": 11,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "a",
-      "li",
-      "title",
-      "strong",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://calmatters.org/tag/donald-trump/",
-    "position": 12,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "div",
-      "a",
-      "title",
-      "h1"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.reuters.com/world/us/donald-trump/",
-    "position": 13,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.whitehouse.gov/",
-    "position": 14,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "span",
-      "a",
-      "script"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.theguardian.com/us-news/donaldtrump",
-    "position": 15,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "h2",
-      "script",
-      "div",
-      "a",
-      "title",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.newyorker.com/tag/donald-trump",
-    "position": 16,
-    "keyword": "donald trump",
-    "all_tags": [
-      "script",
-      "div",
-      "title",
-      "h3",
-      "h1",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://x.com/POTUS",
-    "position": 17,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://millercenter.org/president/trump",
-    "position": 18,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "h2",
-      "h6",
-      "script",
-      "a",
-      "div",
-      "title",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.foreignaffairs.com/topics/trump-administration",
-    "position": 19,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "h1",
-      "a",
-      "title"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://apnews.com/hub/donald-trump",
-    "position": 20,
-    "keyword": "donald trump",
-    "all_tags": [
-      "h2",
-      "script",
-      "a",
-      "title",
-      "h1",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.washingtonpost.com/donald-trump/",
+    "src_url": "https://www.futuremarketinsights.com/reports/solar-panels-market",
     "position": 21,
-    "keyword": "donald trump",
-    "all_tags": [],
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "body > section.report_section > div.container-fluid.container-xxxl.px-4 > div.container1 > div.row > div.col-lg-12.col-m",
+      "body > section.report_section > div.container-fluid.container-xxxl.px-4 > div.container1 > div.row.align-items-center.pb",
+      "div#menu_row.row.menu_row > div.col-lg-12.col-md-12.col-12 > div.menu_content_div.bg-grey1.px-5.py-4 > div.row.all_navig",
+      "div.col-lg-7.col-md-6.col-12 > div.report_content_div > div.tab_content > div#tab_2_body.tab_div.pt-4 > ol > li > ul > l",
+      "div.container-fluid.container-xxxl.px-4 > div.container2 > div.row > div.col-lg-7.col-md-6.col-12 > div.report_content_d",
+      "div.container2 > div.row > div.col-lg-7.col-md-6.col-12 > div.report_content_div > div.tab_content > div#tab_1_body.tab_"
+    ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025",
+    "src_url": "https://www.maximizemarketresearch.com/market-report/global-solar-energy-market/10950/",
     "position": 22,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "h6",
-      "h1"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div#page.hfeed.site > div#content.site-content > section#blog-banner > div.container > div.row > div.col-lg-12.text-cent",
+      "div#right-sidebar.col-md-3.col-sm-12 > div#report-payment.right-sidebar-container > div.floating-card > table.table.tabl",
+      "div.report-template-tab-header > div.report-temp-tab-header-content > div.tab-content.report-template-tab-content > div#"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.usatoday.com/news/politics/donald-trump/",
+    "src_url": "https://introspectivemarketresearch.com/reports/solar-panel-market/",
     "position": 23,
-    "keyword": "donald trump",
-    "all_tags": [
-      "h1",
-      "a",
-      "script",
-      "title"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div#top-bar.bg-color.dark > div.container.clearfix > div.row.justify-content-between > div.col-12.col-md-auto.px-0 > div",
+      "div.[.mt-4.] > div.[.container-fluid.][.px-md-5.].clearfix > div.row.gutter-40.col-mb-80 > div.postcontent.col-lg-8.pb-5",
+      "div.postcontent.col-lg-8.pb-5 > div.tab-content.border.px-3.pt-2.text-justify > div#tab-summary.text-description.ul-tag.",
+      "html > body.home > div.boxed_wrapper > div.[.container-fluid.][.mt-3.px-md-5.] > div.row.align-items-center > div.featur",
+      "html > body.home > div.boxed_wrapper > div.mobile-menu > nav.menu-box > div.contact-info > ul > li",
+      "html > body.home > div.boxed_wrapper > section#page-title.page-title-mini > div.container-fluid.px-md-5.clearfix > ol.br"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.youtube.com/channel/UCAql2DyGU2un1Ei2nMYsqOA",
+    "src_url": "https://www.globenewswire.com/news-release/2025/12/01/3197175/28124/en/Solar-Panels-Market-Intelligence-Report-2025-2030-Decreasing-Costs-Drive-Solar-Panel-Market-Growth-at-11-86-CAGR-Through-2030.html",
     "position": 24,
-    "keyword": "donald trump",
-    "all_tags": [
-      "script",
-      "title"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "body#app-body-container > div > div#maincontainer.pnr-body-container > div#container-article.main-container.container-ov",
+      "div > div#maincontainer.pnr-body-container > div#container-article.main-container.container-overwrite.p-0.d-flex > div.m",
+      "div#maincontainer.pnr-body-container > div#container-article.main-container.container-overwrite.p-0.d-flex > div.main-co",
+      "html > body#app-body-container > div > div#maincontainer.pnr-body-container > div#container-article.main-container.conta"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.instagram.com/potus/?hl=en",
+    "src_url": "https://www.grandviewresearch.com/industry-analysis/solar-energy-system-market-report",
     "position": 25,
-    "keyword": "donald trump",
-    "all_tags": [],
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div#bs-example-navbar-collapse-1.collapse.navbar-collapse.js-navbar-collapse > ul.nav.navbar-nav > li.dropdown > ul.drop",
+      "div.inner_page_backgrund.full > div.col-md-9.col-xs-12 > div > section#breadcrumb.full.breadcrumb_new.breadcrumbs > ul >",
+      "li.lst-child > div > div.full > div.report_summary.full > div#rprt_summary > div.report_external_com_sec > p > strong",
+      "li.lst-child > div > div.full > div.report_summary.full > div#rprt_summary > ul > li > p",
+      "section#breadcrumb.full.breadcrumb_new.breadcrumbs > ul > li.lst-child > div > div.advanced_report_inner > div.report_to",
+      "section#breadcrumb.full.breadcrumb_new.breadcrumbs > ul > li.lst-child > div > div.full > div.report_summary.full > div#",
+      "ul > li.lst-child > div > div.full > div.report_summary.full > div#rprt_summary > h2 > strong"
+    ],
     "status_code": 200
   },
   {
-    "src_url": "https://abcnews.go.com/alerts/donald-trump",
+    "src_url": "https://www.iea.org/energy-system/renewables/solar-pv",
     "position": 26,
-    "keyword": "donald trump",
-    "all_tags": [
-      "title",
-      "div",
-      "a",
-      "script"
-    ],
-    "status_code": 200
+    "keyword": "market analysis solar panel",
+    "css_paths": [],
+    "status_code": 0
   },
   {
-    "src_url": "https://www.nytimes.com/spotlight/donald-trump",
-    "position": 27,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "a",
-      "title",
-      "h3",
-      "h1",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://ballotpedia.org/Donald_Trump",
+    "src_url": "https://www.technavio.com/report/solar-panels-market-industry-analysis",
     "position": 28,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.wsj.com/topics/person/donald-trump?gaa_at=eafs&gaa_n=AWEtsqfkrRnRfq-IWrnifRP9cqoH8VlD4yxAMEdZ78kea3mqLM-FRdihzfIW&gaa_ts=692ebc52&gaa_sig=hT2B_vxI1QkUfZ8SnJ55MVvv-MY-iYGN-Q-QTx8vMI5kcQGGDBlBVbttbY9jvEGCJHFay4C_sBXVPQbKKNEw7A%3D%3D",
-    "position": 34,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "http://www.trumplibrary.gov/home",
-    "position": 36,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "div",
-      "a",
-      "title"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div#product-info > section#report-details.reportpage > div.container > div.row.gy-4 > div.col-lg-8 > div.row > div.col-l",
+      "div.container > div.row.gy-4 > div.col-lg-8 > div.details-content > div#nav-tabContent.tab-content > div#snapshot.tab-pa",
+      "div.container > div.row.gy-4 > div.col-lg-8 > div.details-content > div#nav-tabContent.tab-content > div#tableofcontents",
+      "html > body > div#product-info > section.breadcrumbs > div.container > ol > li.breadcrumb-item > a.rname",
+      "html > body > div.schema_summary",
+      "li.dropdown.dropright.menuab > ul > li.dropdown > ul > li.dropdown > ul > li.dropdown > a",
+      "section#report-details.reportpage > div.container > div.row.gy-4 > div.col-lg-8 > div.details-content > div#nav-tabConte"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://theconversation.com/topics/donald-trump-10206",
-    "position": 37,
-    "keyword": "donald trump",
-    "all_tags": [
-      "h1",
-      "span",
-      "a",
-      "title"
+    "src_url": "https://www.eia.gov/energyexplained/solar/photovoltaics-and-electricity.php",
+    "position": 29,
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "body > div.l-body-wrapper > div.l-outer-wrapper > div.l-inner-wrapper > div.l-row.l-full-width-col.ee-content.article-re",
+      "div#menu.nav-menu > div.section-tabs > div#mainCarousel.carousel > div#nav-topics.carousel__slide > div.topics.left > di",
+      "div.l-body-wrapper > div.l-outer-wrapper > div.l-inner-wrapper > div.l-row.l-full-width-col.ee-content.article-renewable",
+      "div.l-inner-wrapper > div.l-row.l-full-width-col.ee-content.article-renewable > div.l-col > div#eeMenu.ee-content.eeMenu",
+      "div.l-inner-wrapper > div.l-row.l-full-width-col.ee-content.article-renewable > div.l-row.l-two-col-right-narrow > div.l",
+      "div.l-row.l-full-width-col.ee-content.article-renewable > div.l-row.l-two-col-right-narrow > div.l-col > div.secondary >",
+      "html > body > div.l-body-wrapper > header > nav.navigation > a.logo > h1",
+      "nav.navigation > div#menu.nav-menu > div.section-tabs > div#mainCarousel.carousel > div#nav-sources.carousel__slide > di",
+      "nav.navigation > div#menu.nav-menu > div.section-tabs > div#mainCarousel.carousel > div#nav-topics.carousel__slide > div"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://trumpwhitehouse.archives.gov/",
-    "position": 38,
-    "keyword": "donald trump",
-    "all_tags": [
-      "strong",
-      "a",
-      "script"
+    "src_url": "https://www.persistencemarketresearch.com/market-research/solar-pv-panels-market.asp",
+    "position": 30,
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "body > section.report-details-tabs > div.container > div.row.report-tabs > div.col-md-9.my-3.left-column > div#myTabCont",
+      "div.col-md-9.my-3.left-column > div#myTabContent.tab-content > div#segmentation.tab-pane.fade.mt-2 > table > tbody > tr ",
+      "div.col-md-9.my-3.left-column > div#myTabContent.tab-content > div#summary.tab-pane.fade.show.active.mt-2 > table > tbod",
+      "div.slider-section.mt-3.right-boxes > div#carouselExampleIndicators.carousel.slide > div.carousel-inner > div.carousel-i",
+      "html > body > div.fixed-header.stickyHeader.p-2 > div.container.report-details-tabs.d-flex.justify-content-between > div",
+      "nav.navbar.navbar-expand-lg.navbar-light > div#navbarSupportedContent.collapse.navbar-collapse > ul.navbar-nav.ml-auto.m",
+      "section.report-details-tabs > div.container > div.row.report-tabs > div.col-md-9.my-3.left-column > div#myTabContent.tab",
+      "section.report-details-topsec.report-details > div.container.pt-1.pb-2 > div.row > div.col-md-12 > nav > ol.breadcrumb.b"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.nbcnews.com/trump-effect",
-    "position": 39,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "h2",
-      "script",
-      "div",
-      "a",
-      "title",
-      "h1",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.whitehouse.gov/contact/",
-    "position": 40,
-    "keyword": "donald trump",
-    "all_tags": [
-      "span",
-      "a",
-      "cite",
-      "script"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.history.com/articles/donald-trump",
+    "src_url": "https://cleanpower.org/resources/solar-market-monitor/",
     "position": 41,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "h2",
-      "script",
-      "a",
-      "title",
-      "h3",
-      "h1",
-      "dd"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div.js-mega.mega.mega--default.body1.align-right-top > div.mega__container.mega__container--default.container.light-area",
+      "div.js-search-form.js-search-form--ui2-header.search-form.search-form--header.search-form--ui2-header.show-if-search-ope",
+      "section.hero.hero--single-resource-rl2.hero--plain.section.js-section.section--single.section.js-section.has-bg-media.no"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.reddit.com/r/videos/comments/1pa4yu7/trump_fans_should_admit_hed_never_give_a_speech/",
+    "src_url": "https://www.emergenresearch.com/industry-report/solar-panel-market?srsltid=AfmBOooTZX8t0k7swY1PAZPF5IM8gz1quSiPRSGO1OgkFKu1L0Dx_0Fg",
     "position": 42,
-    "keyword": "donald trump",
-    "all_tags": [],
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "html.no-js > body.bg-white.text-gray-900.font-sans > section.max-w-7xl.mx-auto.px-6.py-10.grid.grid-cols-1.md:grid-cols-",
+      "html.no-js > body.bg-white.text-gray-900.font-sans > section.w-full.bg-gradient-to-r.from-sky-400.to-purple-500.text-whi"
+    ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.vox.com/donald-trump",
+    "src_url": "https://www.techsciresearch.com/report/solar-panels-market/20021.html",
     "position": 43,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "a",
-      "title",
-      "h1"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div.container-fluid.custom_space1 > div.row > div.col-md-8.col-lg-8.col-xl-8.px-4.px-md-2.px-lg-2 > article > div#tab1.t",
+      "div.container-fluid.custom_space1 > div.row > div.col-md-8.col-lg-8.col-xl-8.px-4.px-md-2.px-lg-2 > article > div#tab2.t",
+      "div.row > div.col-md-8.col-lg-8.col-xl-8.px-4.px-md-2.px-lg-2 > article > div#tab1.tab-content > div#desreport > p.MsoNo",
+      "div.row > div.col-md-8.col-lg-8.col-xl-8.px-4.px-md-2.px-lg-2 > article > div#tab1.tab-content > div#desreport > ul > li",
+      "form#form1 > section.main-breadcrumb > div.container-fluid.custom_space1 > div.row > div.col-lg-8.col-xl-9.col-md-12.px-"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.youtube.com/watch?v=zhb-CDXNrX4",
+    "src_url": "https://www.solarpowereurope.org/insights/outlooks/global-market-outlook-for-solar-power-2024-2028/detail",
     "position": 44,
-    "keyword": "donald trump",
-    "all_tags": [
-      "script",
-      "title"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div#__layout > div > main.outlook-detail > section.hero-img > div.hero-img__innerwrap > div.hero-img__row > div.hero-img"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.forbes.com/profile/donald-trump/",
+    "src_url": "https://www.qyresearch.com/reports/5244583/solar-energy-panel",
     "position": 45,
-    "keyword": "donald trump",
-    "all_tags": [
-      "cite",
-      "script",
-      "div",
-      "a",
-      "title",
-      "h3",
-      "li",
-      "h1",
-      "span"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div#app > div.report_detail > div.content_detail > div.left_box_l > div.left_box > div.left_content > div.link > span",
+      "div.content_detail > div.right_box > div.rightAssembly.marginTop40 > div.offer_box > div.coant > div.box > div.flex_box "
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://www.theatlantic.com/politics/2025/12/trump-white-house-travel-rallies-isolated/685073/",
+    "src_url": "https://www.marketresearchfuture.com/reports/north-america-solar-panel-market-16086",
     "position": 46,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "a",
-      "script"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div#mrfr-rightmenuDrawer.mrfr-rightmenuDrawer > ul > li.mrfr-rightmenuHasDropdown > ul.mrfr-rightmenuDropdown > li.mrfr-",
+      "div.mrfr-index-tab-wrapper > section.mrfr-index-tab-content-container > article.mrfr-index-tab-section > div.section-con",
+      "div.tab-content-wrapper > div.tab-content > div.cat-mega-menu-wrapper > div.cat-mega-menu-col > div.cat-col-1 > ul.cat-s",
+      "div.wrapper > main.inner-wrapper > section.rd-hero-section-wrapper > div.rd-hero-inner-section > div.rd-hero-cont > sect",
+      "header.top-nav > div.sec-nav-wrapper > nav.sec-nav-container > div.sec-contact-links > div.sec-menu-items > ul.menu-cont",
+      "html > body > div.navbar-scroll-rd.navbar-bg-image > nav.nav-container > div.menu-links > div.report-title-actions-cont ",
+      "html > body > footer.footer-wrapper > div.footer-cont > div.footer-inner-cont > div.footer-col > div.comp-desc > p.desc-",
+      "main > div.wrapper > main.inner-wrapper > section.breadcrumbs-wrapper > div.breadcrumbs-cont > div.breadcrumbs-inner-con",
+      "main.inner-wrapper > section.rd-hero-section-wrapper > div.rd-hero-inner-section > div.rd-hero-cont > section.rd-hero-le",
+      "section.mrfr-rd-container > section.mrfr-rd-inner-cont > section.mrfr-tab-container > section.mrfr-tab-content.mrfr-acti",
+      "section.mrfr-rd-inner-cont > section.mrfr-tab-container > section.mrfr-tab-content.mrfr-active > div.mrfr-index-tab-wrap",
+      "section.mrfr-tab-container > section.mrfr-tab-content.mrfr-active > div.mrfr-index-tab-wrapper > section.mrfr-index-tab-",
+      "section.mrfr-tab-content.mrfr-active > div.mrfr-index-tab-wrapper > section.mrfr-index-tab-content-container > article.m"
     ],
     "status_code": 200
   },
   {
-    "src_url": "https://x.com/realDonaldTrump",
+    "src_url": "https://www.grandviewresearch.com/industry-analysis/solar-pv-industry",
     "position": 47,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.instagram.com/reel/DRuGYU0jc8l/",
-    "position": 48,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://thehill.com/people/donald-trump/",
-    "position": 49,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.instagram.com/reel/DRu0VChjTfF/",
-    "position": 50,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://bidenwhitehouse.archives.gov/about-the-white-house/presidents/donald-j-trump/",
-    "position": 51,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "em",
-      "script",
-      "a",
-      "title",
-      "option",
-      "h1",
-      "span"
+    "keyword": "market analysis solar panel",
+    "css_paths": [
+      "div#bs-example-navbar-collapse-1.collapse.navbar-collapse.js-navbar-collapse > ul.nav.navbar-nav > li.dropdown > ul.drop",
+      "div.inner_page_backgrund.full > div.col-md-9.col-xs-12 > div > section#breadcrumb.full.breadcrumb_new.breadcrumbs > ul >"
     ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.tiktok.com/@livenowfox/video/7578668586659532062",
-    "position": 52,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.facebook.com/POTUS/",
-    "position": 54,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.politico.com/news/donald-trump",
-    "position": 55,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.trump.com/leadership/donald-j-trump-biography",
-    "position": 56,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.imdb.com/name/nm0874339/",
-    "position": 57,
-    "keyword": "donald trump",
-    "all_tags": [
-      "script",
-      "div",
-      "a",
-      "title",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.pewresearch.org/politics/2021/01/29/how-america-changed-during-donald-trumps-presidency/",
-    "position": 58,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "figcaption",
-      "h2",
-      "script",
-      "a",
-      "title",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.france24.com/en/tag/donald-trump/",
-    "position": 59,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.bbc.com/news/articles/cn5lx240greo",
-    "position": 61,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "h2",
-      "script",
-      "h1",
-      "a",
-      "title"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.foxbusiness.com/category/donald-trump",
-    "position": 62,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "a",
-      "title",
-      "h1"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-on-air-force-one-nov-30-2025/",
-    "position": 63,
-    "keyword": "donald trump",
-    "all_tags": [
-      "script",
-      "h1",
-      "a",
-      "title",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.wired.com/tag/donald-trump/",
-    "position": 64,
-    "keyword": "donald trump",
-    "all_tags": [
-      "script",
-      "h3",
-      "h1",
-      "title"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.thedailybeast.com/why-donald-trumps-presidency-is-all-but-over-james-carville/",
-    "position": 65,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "h2",
-      "script",
-      "title",
-      "h1",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.post-gazette.com/opinion/op-ed/2025/12/02/maga-no-kings-trump-marjorie-greene-mtg-minority-rights-frank-miele/stories/202512010063",
-    "position": 67,
-    "keyword": "donald trump",
-    "all_tags": [
-      "script",
-      "title"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.whitehouse.gov/administration/",
-    "position": 68,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "a",
-      "title",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://news.gallup.com/poll/699221/trump-approval-rating-drops-new-second-term-low.aspx",
-    "position": 69,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "h2",
-      "em",
-      "script",
-      "h1",
-      "option",
-      "title",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.newsweek.com/donald-trump-warning-us-attacks-venezuela-chuck-schumer-11137961",
-    "position": 70,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "a",
-      "title",
-      "h1",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.usatoday.com/videos/news/2025/12/01/white-house-releases-details-of-president-trumps-mri-scan/87556414007/",
-    "position": 71,
-    "keyword": "donald trump",
-    "all_tags": [
-      "script",
-      "h1",
-      "div",
-      "a",
-      "title"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.cnn.com/2025/12/01/politics/video/senator-mark-kelly-hegseth-trump-threatening-digvid-vrtc",
-    "position": 72,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "div",
-      "title",
-      "h1"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.economist.com/interactive/trump-approval-tracker",
-    "position": 73,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://singjupost.com/transcript-donald-trump-jr-on-keeping-it-real-podcast-w-jillian-michaels/",
-    "position": 74,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "em",
-      "h2",
-      "script",
-      "a",
-      "title",
-      "h1",
-      "strong",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.britannica.com/biography/Donald-Trump",
-    "position": 75,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "dd",
-      "em",
-      "h2",
-      "script",
-      "a",
-      "div",
-      "title",
-      "h1",
-      "strong",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/donald-trump-lashes-out-at-reporter-asking-about-dc-shooter",
-    "position": 76,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "title",
-      "h1",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.instagram.com/reel/DRfnfkagXo1/",
-    "position": 77,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://en.wikipedia.org/wiki/Donald_Trump_Jr.",
-    "position": 78,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "figcaption",
-      "cite",
-      "script",
-      "div",
-      "a",
-      "i",
-      "q",
-      "h3",
-      "li",
-      "title",
-      "h4",
-      "span",
-      "b"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://time.com/7337936/trump-mri-results-health-white-house/",
-    "position": 79,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "h1",
-      "a",
-      "title",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-indiana-redistricting-ukraine-live-updates-rcna246480",
-    "position": 80,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "h2",
-      "script",
-      "a",
-      "li",
-      "strong"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.dw.com/en/us-military-threat-fuels-fear-and-uncertainty-in-venezuela/video-74953572",
-    "position": 83,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "a",
-      "script"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://news.sky.com/story/white-house-issues-update-on-donald-trumps-health-as-president-undergoes-mri-scan-13478072",
-    "position": 84,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "a",
-      "h3",
-      "title",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.timesofisrael.com/trump-speaks-to-netanyahu-warns-israel-not-to-interfere-in-syria/",
-    "position": 85,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "h1",
-      "div",
-      "a",
-      "title",
-      "figcaption"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.nytimes.com/video/us/politics/100000010556754/trump-mri-test-results.html",
-    "position": 86,
-    "keyword": "donald trump",
-    "all_tags": [
-      "h2",
-      "script",
-      "h3",
-      "title",
-      "h4",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.pbs.org/newshour/politics/trump-invites-families-of-2-national-guard-members-who-were-shot-to-white-house",
-    "position": 87,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "h1",
-      "a",
-      "div",
-      "title",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.cnn.com/2025/12/01/world/video/steve-witkoff-ukraine-russia-negotiations-brief-digvid",
-    "position": 88,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "a",
-      "div",
-      "script"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.usatoday.com/videos/news/politics/2025/12/01/court-disqualifies-trump-ally-habba-as-new-jersey-federal-prosecutor/87553419007/",
-    "position": 92,
-    "keyword": "donald trump",
-    "all_tags": [
-      "title",
-      "div",
-      "a",
-      "script"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.foxnews.com/video/6385820974112",
-    "position": 93,
-    "keyword": "donald trump",
-    "all_tags": [
-      "script",
-      "h1",
-      "a",
-      "title",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.pbs.org/newshour/show/december-1-2025-pbs-news-hour-full-episode",
-    "position": 94,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "div",
-      "script"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.tiktok.com/@teamtrump/video/7578937271626239245",
-    "position": 95,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.youtube.com/watch?v=Op-z2r3_Lm4",
-    "position": 96,
-    "keyword": "donald trump",
-    "all_tags": [
-      "title",
-      "script"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://x.com/DonaldTrump?lang=en",
-    "position": 97,
-    "keyword": "donald trump",
-    "all_tags": [],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://timesofindia.indiatimes.com/videos/international/trump-gives-2-choices-to-maduro-family-secret-call-details-out-amid-venezuela-tensions/videoshow/125693857.cms",
-    "position": 98,
-    "keyword": "donald trump",
-    "all_tags": [
-      "p",
-      "script",
-      "a",
-      "div",
-      "h3",
-      "title",
-      "span"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://news.sky.com/video/donald-trump-condemns-animal-suspect-in-shooting-of-national-guard-13475960",
-    "position": 99,
-    "keyword": "donald trump",
-    "all_tags": [
-      "script",
-      "span",
-      "a",
-      "title"
-    ],
-    "status_code": 200
-  },
-  {
-    "src_url": "https://www.facebook.com/senatorelizabethwarren/videos/next-year-donald-trumps-big-beautiful-bill-will-hand-67-billion-of-your-taxpayer/1653842435753888/",
-    "position": 100,
-    "keyword": "donald trump",
-    "all_tags": [],
     "status_code": 200
   }
-][
-
 ]

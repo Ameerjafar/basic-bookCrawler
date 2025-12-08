@@ -1,0 +1,146 @@
+[
+  {
+    "url": "https://seia.org/research-resources/us-solar-market-insight/",
+    "position": 1,
+    "css_path": "div.wrapper-outer.top-spacing > section#cta-featured-section.feature-section.font-18.bg-white > div.container > div.row ",
+    "status_code": 200
+  },
+  {
+    "url": "https://seia.org/research-resources/us-solar-market-insight/",
+    "position": 1,
+    "css_path": "div#pills-tabContent.tab-content.pt-50 > div#pills-overview.tab-pane.fade.show.active > div.state-tab-content.font-18 > ",
+    "status_code": 200
+  },
+  {
+    "url": "https://seia.org/research-resources/us-solar-market-insight/",
+    "position": 1,
+    "css_path": "div.wrapper-outer.top-spacing > section.banner-section.banner-style3.position-relative > div.landing-banner-main.banner-",
+    "status_code": 200
+  },
+  {
+    "url": "https://seia.org/research-resources/us-solar-market-insight/",
+    "position": 1,
+    "css_path": "div.wrapper-outer.top-spacing > section#cta-resource-archives-links.feature-section.section-bg > div.container > div.arc",
+    "status_code": 200
+  },
+  {
+    "url": "https://seia.org/research-resources/us-solar-market-insight/",
+    "position": 1,
+    "css_path": "div.container > div.sub-menu-wrap.d-lg-flex.justify-content-between.flex-column.text-white > div.sub-menu-top > div.row ",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.grandviewresearch.com/industry-analysis/solar-panels-market",
+    "position": 2,
+    "css_path": "ul > li.lst-child > div > div.full > div.report_summary.full > div#rprt_summary > h2 > strong",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.grandviewresearch.com/industry-analysis/solar-panels-market",
+    "position": 2,
+    "css_path": "ul > li.lst-child > div > div.full > div.report_summary.full > div#rprt_summary > div.report_external_com_sec > p",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.grandviewresearch.com/industry-analysis/solar-panels-market",
+    "position": 2,
+    "css_path": "ul > li.lst-child > div > div.full > div.report_summary.full > div#rprt_summary > div.report_external_com_sec > h3",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.grandviewresearch.com/industry-analysis/solar-panels-market",
+    "position": 2,
+    "css_path": "section#breadcrumb.full.breadcrumb_new.breadcrumbs > ul > li.lst-child > div > div.advanced_report_inner > div.report_to",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.grandviewresearch.com/industry-analysis/solar-panels-market",
+    "position": 2,
+    "css_path": "section#breadcrumb.full.breadcrumb_new.breadcrumbs > ul > li.lst-child > div > div.full > div.report_summary.full > div#",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764",
+    "position": 3,
+    "css_path": "div.bg-patten.inner-page-section > div#imageModal.modal.fade.show > div.modal-dialog.modal-lg > div.modal-content.modal-",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764",
+    "position": 3,
+    "css_path": "html > body > section.page-heading.experties-heading > div.container > ul.float-left > li.lst-child > div > span.sub-pag",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764",
+    "position": 3,
+    "css_path": "body > div.bg-patten.inner-page-section > div.container > div.row.reportData > div.col-lg-9.col-md-8.col-xs-12 > div.col",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764",
+    "position": 3,
+    "css_path": "div.tab-box > div.tab-content > div#summary.tab-pane.summarylist.active > div > div#summury-sub.summary-sub-select > p >",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764",
+    "position": 3,
+    "css_path": "div.col-lg-9.col-md-8.col-xs-12 > div.col-lg-12.healthcare.no-border.ltr-class > div.tab-box > div.tab-content > div#sum",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764",
+    "position": 3,
+    "css_path": "div.col-lg-12.healthcare.no-border.ltr-class > div.tab-box > div.tab-content > div#summary.tab-pane.summarylist.active >",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.solarpowereurope.org/insights/outlooks/global-market-outlook-for-solar-power-2025-2029/detail",
+    "position": 6,
+    "css_path": "div#__layout > div > main.outlook-detail > section.hero-img > div.hero-img__innerwrap > div.hero-img__row > div.hero-img",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.nrel.gov/solar/market-research-analysis/emerging-solar-pv-market-analysis",
+    "position": 7,
+    "css_path": "html > body.gov > main#content.page-wrapper > div#Contentplaceholder1_T980B6F8C002_Col00.sf_colsIn.container > div > div",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.alliedmarketresearch.com/solar-panel-market",
+    "position": 8,
+    "css_path": "html > body > div#fixhead.fixedheader > div.container-fluid.px-xl-6 > div.row.d-flex.justify-content-around.align-items-",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.alliedmarketresearch.com/solar-panel-market",
+    "position": 8,
+    "css_path": "div.row > div.col-12.col-sm-12.col-md-9.col-lg-9 > div#mainRDContent.avn-right-side > div > div.row > div.col-12 > div#r",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.alliedmarketresearch.com/solar-panel-market",
+    "position": 8,
+    "css_path": "div.container-fluid.px-xl-6 > div.row > div.col-12 > div.row > div.col-12.col-sm-12.col-md-9.col-lg-9 > div.card.text-st",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.alliedmarketresearch.com/solar-panel-market",
+    "position": 8,
+    "css_path": "div#mainRDContent.avn-right-side > div > div.row > div.col-12 > div#report-overview.avn-editor-layout > p > em > strong",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.alliedmarketresearch.com/solar-panel-market",
+    "position": 8,
+    "css_path": "div.col-12.col-sm-12.col-md-9.col-lg-9 > div#mainRDContent.avn-right-side > div > div.row > div.col-12 > div#report-over",
+    "status_code": 200
+  },
+  {
+    "url": "https://www.solarpowereurope.org/insights/outlooks/global-market-outlook-for-solar-power-2024-2028/detail",
+    "position": 10,
+    "css_path": "div#__layout > div > main.outlook-detail > section.hero-img > div.hero-img__innerwrap > div.hero-img__row > div.hero-img",
+    "status_code": 200
+  }
+]

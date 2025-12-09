@@ -5,9 +5,6 @@ from dotenv import load_dotenv
 import json
 import urllib.parse
 import re
-import psycopg2
-from psycopg2.extras import RealDictCursor
-from datetime import datetime
 
 load_dotenv()
 
@@ -21,30 +18,25 @@ class KeywordTagSpider(scrapy.Spider):
         'ROBOTSTXT_OBEY': False,
         'DOWNLOAD_DELAY': 0.5,
         'LOG_LEVEL': 'INFO',
+        'FEED_EXPORT_ENCODING': 'utf-8',  # ✅ Auto JSON export
     }
     
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        
-        # ✅ HARDCODED as requested
         self.INDUSTRY_MODULE = 'solar_energy'
         self.KEYWORD = 'solar panel market analysis'
-        
         self.GOOGLE_CSE_ID = os.getenv('GOOGLE_CSE_ID')
         self.GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
         
-        # Storage
+        print(f"🔍 CSE_ID: {'✅' if self.GOOGLE_CSE_ID else '❌ MISSING'}")
+        print(f"🔍 API_KEY: {'✅' if self.GOOGLE_API_KEY else '❌ MISSING'}")
+        
         self.site_css_paths = defaultdict(set)
         self.site_contents = defaultdict(list)
         self.site_positions = {}
         self.all_sites = {}
-        self.serp_page = 0
         self.total_sites = 0
-        self.industry_module_id = None
-        
-        self.db_conn = None
-        self.init_db()
-    
+
     def get_css_path(self, elem):
         """Generate CSS path for element"""
         try:
@@ -101,75 +93,21 @@ class KeywordTagSpider(scrapy.Spider):
         except:
             return ''
 
-    def init_db(self):
-        try:
-            self.db_conn = psycopg2.connect(
-                host=os.getenv('DB_HOST', 'localhost'),
-                database=os.getenv('DB_NAME', 'scrapy_db'),
-                user=os.getenv('DB_USER', 'postgres'),
-                password=os.getenv('DB_PASSWORD', 'password'),
-                port=os.getenv('DB_PORT', '5432')
-            )
-            
-            with self.db_conn.cursor() as cur:
-                cur.execute("DROP TABLE IF EXISTS keywords, industry_modules, css_paths, page_contents CASCADE")
-                
-                cur.execute("""
-                    CREATE TABLE industry_modules (
-                        id SERIAL PRIMARY KEY,
-                        module_name VARCHAR(100) NOT NULL UNIQUE,
-                        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-                    )
-                """)
-                
-                cur.execute("""
-                    INSERT INTO industry_modules (module_name) VALUES ('solar_energy')
-                    ON CONFLICT (module_name) DO NOTHING RETURNING id
-                """)
-                self.industry_module_id = cur.fetchone()[0] or 1
-                
-                cur.execute("""
-                    CREATE TABLE keywords (
-                        id SERIAL PRIMARY KEY,
-                        industry_module_id INTEGER REFERENCES industry_modules(id),
-                        keyword VARCHAR(500) NOT NULL,
-                        status VARCHAR(20) DEFAULT 'pending',
-                        scraped_at TIMESTAMP,
-                        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-                        UNIQUE(industry_module_id, keyword)
-                    )
-                """)
-                
-                keywords_list = ['solar', 'panel', 'market', 'analysis']
-                for keyword in keywords_list:
-                    cur.execute("""
-                        INSERT INTO keywords (industry_module_id, keyword, status) 
-                        VALUES (%s, %s, 'pending') ON CONFLICT DO NOTHING
-                    """, (self.industry_module_id, keyword))
-                
-                self.db_conn.commit()
-                self.logger.info("✅ DB ready: solar_energy + 4 keywords")
-                
-        except Exception as e:
-            self.logger.error(f"❌ DB Error: {e}")
-
     def start_requests(self):
-        try:
-            with self.db_conn.cursor() as cur:
-                cur.execute("SELECT COUNT(*) FROM keywords WHERE industry_module_id = %s AND status = 'scraped'", 
-                          (self.industry_module_id,))
-                if cur.fetchone()[0] == 4:
-                    self.logger.info("⏭️ Already scraped - saving JSON summary")
-                    self.save_json_summary()
-                    return
-        except: pass
+        print("🚀 FORCING EXECUTION - NO DB CHECK!")
         
         if not self.GOOGLE_CSE_ID or not self.GOOGLE_API_KEY:
-            self.logger.warning("⚠️ No Google API - marking complete")
-            self.mark_complete()
+            print("⚠️ No Google API keys - using test URLs")
+            test_urls = [
+                'https://en.wikipedia.org/wiki/Solar_panel',
+                'https://www.statista.com/topics/4830/solar-energy/'
+            ]
+            for i, url in enumerate(test_urls, 1):
+                yield scrapy.Request(url=url, callback=self.parse_tags,
+                                   meta={'source_url': url, 'position': i})
             return
         
-        self.logger.info("🚀 Scraping 'solar panel market analysis'")
+        print("✅ Google API ready - fetching SERP!")
         yield scrapy.Request(
             url=self.build_cse_url(0),
             callback=self.parse_cse_page,
@@ -189,8 +127,10 @@ class KeywordTagSpider(scrapy.Spider):
         return f"https://www.googleapis.com/customsearch/v1?{urllib.parse.urlencode(params)}"
 
     def parse_cse_page(self, response):
+        print("📡 Google CSE response received!")
         data = response.json()
         items = data.get('items', [])
+        print(f"🔍 Found {len(items)} URLs from Google")
         
         for i, result in enumerate(items):
             if self.total_sites >= 10: break
@@ -200,6 +140,7 @@ class KeywordTagSpider(scrapy.Spider):
                 self.site_positions[url] = position
                 self.all_sites[url] = {'position': position, 'status': None}
                 self.total_sites += 1
+                print(f"➡️  Queuing site #{position}: {url}")
                 yield scrapy.Request(url=url, callback=self.parse_tags,
                                    meta={'source_url': url, 'position': position})
 
@@ -208,12 +149,14 @@ class KeywordTagSpider(scrapy.Spider):
         position = response.meta['position']
         self.all_sites[source_url]['status'] = response.status
         
+        print(f"📄 Site #{position} ({source_url}): Status {response.status}")
+        
         if response.status >= 400:
             self.logger.warning(f"⚠️ Site #{position} failed: {response.status}")
             return
         
         keywords = self.KEYWORD.lower().split()
-        new_contents = 0
+        content_count = 0
         
         for word in keywords:
             xpath_query = f'//*[contains(translate(text(), "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "abcdefghijklmnopqrstuvwxyz"), "{word}")]'
@@ -221,71 +164,23 @@ class KeywordTagSpider(scrapy.Spider):
                 css_path = self.get_css_path(elem)
                 content = self.get_content_block(elem)
                 
-                if content and content not in self.site_contents[source_url]:
+                if content:
+                    content_count += 1
+                    # ✅ YIELD ITEM → SAVED TO discovery.json AUTOMATICALLY
+                    yield {
+                        'url': source_url,
+                        'position': position,
+                        'content_id': content_count,
+                        'css_path': css_path,
+                        'content': content[:2000],
+                        'content_length': len(content),
+                        'keywords': self.KEYWORD
+                    }
                     self.site_contents[source_url].append(content)
                     self.site_css_paths[source_url].add(css_path)
-                    new_contents += 1
         
-        self.logger.info(f"✅ Site #{position}: {new_contents} content blocks")
-
-    def mark_complete(self):
-        try:
-            with self.db_conn.cursor() as cur:
-                cur.execute("""
-                    UPDATE keywords SET status = 'scraped', scraped_at = CURRENT_TIMESTAMP
-                    WHERE industry_module_id = %s
-                """, (self.industry_module_id,))
-                self.db_conn.commit()
-        except Exception as e:
-            self.logger.error(f"❌ DB error: {e}")
-
-    def save_content_json(self):
-        """✅ Save ALL content to content.json"""
-        content_data = []
-        
-        for url, data in self.all_sites.items():
-            position = data['position']
-            css_paths_list = list(self.site_css_paths[url])
-            
-            for i, content in enumerate(self.site_contents[url], 1):
-                css_path = css_paths_list[min(i-1, len(css_paths_list)-1)] if css_paths_list else "body"
-                content_data.append({
-                    'url': url,
-                    'position': position,
-                    'content_id': i,
-                    'css_path': css_path,
-                    'content': content[:2000],
-                    'content_length': len(content),
-                    'keywords': self.KEYWORD
-                })
-        
-        with open('content.json', 'w', encoding='utf-8') as f:
-            json.dump(content_data, f, indent=2, ensure_ascii=False)
-        
-        self.logger.info(f"💾 SAVED {len(content_data)} content blocks to content.json")
-
-    def save_css_paths_json(self):
-        """Save CSS paths to css_paths.json"""
-        css_data = []
-        for url, data in self.all_sites.items():
-            for css_path in self.site_css_paths[url]:
-                css_data.append({
-                    'url': url,
-                    'position': data['position'],
-                    'css_path': css_path,
-                    'status_code': data['status']
-                })
-        
-        with open('css_paths.json', 'w', encoding='utf-8') as f:
-            json.dump(css_data, f, indent=2, ensure_ascii=False)
+        print(f"✅ Site #{position}: {content_count} content blocks")
 
     def closed(self, reason):
-        self.mark_complete()
-        
-        # ✅ SAVE JSON FILES
-        self.save_content_json()
-        self.save_css_paths_json()
-        
-        self.logger.info(f"🎉 FINISHED: {self.total_sites} sites, {sum(len(c) for c in self.site_contents.values())} contents!")
-        if self.db_conn:
-            self.db_conn.close()
+        print(f"🎉 FINISHED: {self.total_sites} sites processed!")
+        print("💾 Check discovery.json for all exported items!")
